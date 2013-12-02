@@ -1,0 +1,124 @@
+hr {
+	background: url('divider.png') no-repeat top center;
+	height: 5px;
+	border: none;
+	margin-top: 30px;
+}
+
+img {
+	display:block;
+	margin:auto;
+}
+
+#container {
+	width: 980px;
+	margin: 0 auto;
+	margin-top:0;
+	background: white;
+	box-shadow: 0px 0 30px rgba(0,0,0,.55);
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+#mainbody {
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-left: 25px;
+	padding-bottom: 0px;
+	margin:0 auto;
+}
+
+body {
+	height: 100%;
+	margin:0;
+	background: gray;
+	font-size:13px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	line-height:1.8em;
+	color: black;
+}
+
+#main{
+	background:gray;
+	}
+
+img{
+	position:relative;
+}
+	
+h1{
+	font-size:50px;
+	text-align:center;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h3{
+	text-align:center;
+	font-family:"Palatine Linotype", "Book Antique", Palatino, serif;
+}
+
+h2{
+	font-size:
+	18px;
+	font-family:"Palatine Linotype", "Book Antique", Palatino, serif;
+}
+
+#navblock ul{
+	margin:0;
+	margin-bottom: -10px;
+	padding:0;
+	list-style-type: none;
+	text-align: center;
+}
+
+#navblock ul li{
+	display:inline;
+}
+
+#navblock ul li a{
+	text-decoration: none;
+	padding: .2em 1em;
+	color: darkgrey;
+	background-color: white;
+	border-right-style: solid;
+	border-right-color: lightgrey;
+	border-right-width: 1px;
+}
+
+#navblock ul li a:hover{
+	color: black
+}
+
+#buttons a{
+	text-decoration: none;
+	padding: .2em 1em;
+	color: darkgrey;
+	background-color: white;
+	border-right-style: solid;
+	border-right-color: lightgrey;
+	border-right-width: 1px;
+}
+
+#buttons a:hover{
+	color: black;
+	background-color: lightgrey;
+}
+
+.button{
+	text-decoration: none;
+	padding: .2em 1em;
+	color: darkgrey;
+	background-color: white;
+	border-right-style: solid;
+	border-right-color: lightgrey;
+	border-right-width: 1px;
+	border-left-style: solid;
+	border-left-color: lightgrey;
+	border-left-width: 1px;
+}
+
+.button:hover{
+	color: black;
+	background-color: lightgrey;
+}
+
